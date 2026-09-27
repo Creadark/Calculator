@@ -267,6 +267,7 @@
                 125,
                 430);
 
+
             ConfigureSmallButton(
                 btnHistory,
                 "История",
